@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlannerPreferences PlanViewFilePattern="sas_plan.*" PlannerFilePath="C:\Users\student\Desktop\python samoloty project\eclipse-pddl2\eclipse-pddl\fast-downward-dist\plan.bat" PlannerName="FastDownward">
+<PlannerArguments>
+<PlannerArgumentsEntry PlannerArgumentKey="A* blind heuristic" PlannerArgumentValue="--search &quot;astar(blind())&quot;"/>
+<PlannerArgumentsEntry PlannerArgumentKey="A* landmark-cut heuristic " PlannerArgumentValue="--search &quot;astar(lmcut())&quot;"/>
+<PlannerArgumentsEntry PlannerArgumentKey="A* merge-and-shrink heuristic with default settings" PlannerArgumentValue="--search &quot;astar(merge_and_shrink())&quot;"/>
+<PlannerArgumentsEntry PlannerArgumentKey="Lazy greedy best first search, FF heuristic" PlannerArgumentValue="--heuristic &quot;hff=ff()&quot; --search &quot;lazy_greedy(hff, preferred=hff)&quot;"/>
+<PlannerArgumentsEntry PlannerArgumentKey="Lazy greedy best first search, FF heuristic and context-enhanced additive heuristic" PlannerArgumentValue="--heuristic &quot;hff=ff()&quot; --heuristic &quot;hcea=cea()&quot; --search &quot;lazy_greedy([hff, hcea], preferred=[hff, hcea])&quot;"/>
+<PlannerArgumentsEntry PlannerArgumentKey="ipc seq-sat-lama-2011" PlannerArgumentValue="ipc seq-sat-lama-2011"/>
+</PlannerArguments>
+</PlannerPreferences>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="pl.poznan.put.cs.gui4pddl.runners.PDDLProjectLaunchType">
+<stringAttribute key="arguments" value="--search &quot;astar(blind())&quot;"/>
+<stringAttribute key="arguments_name" value="A* blind heuristic"/>
+<stringAttribute key="file_name_regexp" value="sas_plan.*"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/World of Blocks/world-of-blocks.pddl"/>
+<listEntry value="/World of Blocks/problem.pddl"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.debug.core.capture_output" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="C:\Users\student\awesomeworkspace\World of Blocks"/>
+<stringAttribute key="pddl_planner" value="C:\Users\student\Desktop\python samoloty project\eclipse-pddl2\eclipse-pddl\fast-downward-dist\plan.bat"/>
+<stringAttribute key="pddl_planner_name" value="FastDownward"/>
+<stringAttribute key="pl.poznan.put.cs.gui4pddl.ATTR_PROJECT" value="World of Blocks"/>
+<stringAttribute key="pl.poznan.put.cs.gui4pddl.runners.PDDLProjectLaunchType" value="pl.poznan.put.cs.gui4pddl.runners.PDDLProjectLaunchType"/>
+<stringAttribute key="process_factory_id" value="pl.poznan.put.cs.gui4pddl.PDDLProcessFactory"/>
+</launchConfiguration>
