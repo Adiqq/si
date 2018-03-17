@@ -1,0 +1,4 @@
+default_planner_argument_name=A* blind heuristic
+default_planner_name=FastDownward
+eclipse.preferences.version=1
+use_default_planner=true

@@ -4,17 +4,15 @@
 	(:init
 		(armempty)
 		(clear c)
-		(clear b)
 		(on-top c a)
 		(on-floor b)
 		(on-floor a)
 	)
 	(:goal
 		(and
-			(armempty)
 			(clear a)
-			(on-top b c)
 			(on-top a b)
+			(on-top b c)
 			(on-floor c)
 		)
 	)

@@ -31,14 +31,12 @@
 		(and
 			(armempty)
 			(on-top ?x ?y)
-			(clear ?x)
 		)
 		:effect
 		(and
 			(holding ?x)
 			(not (armempty))
-			(not (on-top ?y ?x))
-			(clear ?y)
+			(not (on-top ?x))
 		)
 	)
 	; kladziemy x na podloze
@@ -62,7 +60,6 @@
 		(and
 			(armempty)
 			(on-floor ?x)
-			(clear ?x)
 		)
 		:effect
 		(and

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlanViewData>
+<PlanViewDataRow Domain="world-of-blocks" DomainFilePath="C:\Users\student\awesomeworkspace\World of Blocks\world-of-blocks.pddl" PlanArguments="A* blind heuristic" PlannerName="FastDownward" Problem="problem" ProblemFilePath="C:\Users\student\awesomeworkspace\World of Blocks\problem.pddl" ProjectName="World of Blocks" id="1">
+<PlanFileNames PlanFileName="sas_plan"/>
+</PlanViewDataRow>
+<PlanViewDataRow Domain="world-of-blocks" DomainFilePath="C:\Users\student\awesomeworkspace\World of Blocks\world-of-blocks.pddl" PlanArguments="A* blind heuristic" PlannerName="FastDownward" Problem="problem" ProblemFilePath="C:\Users\student\awesomeworkspace\World of Blocks\problem.pddl" ProjectName="World of Blocks" id="2"/>
+<PlanViewDataRow Domain="world-of-blocks" DomainFilePath="C:\Users\student\awesomeworkspace\World of Blocks\world-of-blocks.pddl" PlanArguments="A* blind heuristic" PlannerName="FastDownward" Problem="problem" ProblemFilePath="C:\Users\student\awesomeworkspace\World of Blocks\problem.pddl" ProjectName="World of Blocks" id="3"/>
+<PlanViewDataRow Domain="world-of-blocks" DomainFilePath="C:\Users\student\awesomeworkspace\World of Blocks\world-of-blocks.pddl" PlanArguments="A* blind heuristic" PlannerName="FastDownward" Problem="problem" ProblemFilePath="C:\Users\student\awesomeworkspace\World of Blocks\problem.pddl" ProjectName="World of Blocks" id="4"/>
+<PlanViewDataRow Domain="world-of-blocks" DomainFilePath="C:\Users\student\awesomeworkspace\World of Blocks\world-of-blocks.pddl" PlanArguments="A* blind heuristic" PlannerName="FastDownward" Problem="problem" ProblemFilePath="C:\Users\student\awesomeworkspace\World of Blocks\problem.pddl" ProjectName="World of Blocks" id="5"/>
+</PlanViewData>
